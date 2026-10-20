@@ -15,6 +15,7 @@ class ofApp : public ofBaseApp {
 ```
 
 -Hipotesis
-En la memoria, el vector deberia almacenar direcciones de memoria que apuntan a las particulas creadas  
+En la memoria, el vector llamado "particles" deberia almacenar direcciones de memoria que apuntan a las particulas creadas.
+Las dunciones de "setup()""upadte()""draw()", no se almacenan como datos normales dentro del objetp, mas bien, corresponde al codigo del programa
 -Observable
 -Conlusion
